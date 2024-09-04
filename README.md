@@ -1,6 +1,6 @@
 # repositorioFork
 
-Edite esse {Texto aqui} com seu nome de usuário no github
+KalylSemi10
 
 
-E Esse texto com o repositório que voce criou: {Link do repositório no Github aqui}
+https://github.com/KalylSemi10/repositorioPublico.git
