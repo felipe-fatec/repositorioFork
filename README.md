@@ -1,6 +1,7 @@
 # repositorioFork
 
-Edite esse {Texto aqui} com seu nome de usuário no github
+Edite esse Leuquary com seu nome de usuário no github
 
 
-E Esse texto com o repositório que voce criou: {Link do repositório no Github aqui}
+E Esse texto com o repositório que voce criou: https://github.com/Leuquary/repositorioPublico.git
+
